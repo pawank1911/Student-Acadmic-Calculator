@@ -147,6 +147,5 @@ If requiredSGPA > 10 → "Mathematically impossible"
 - GitHub: [github.com/pawank1911](https://github.com/pawank1911)
 - Email: your-email@example.com
 
----
 
  
