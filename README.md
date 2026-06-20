@@ -149,6 +149,4 @@ If requiredSGPA > 10 → "Mathematically impossible"
 
 ---
 
-## 🏆 Built for Digital Heroes
-
-[digitalheroesco.com](https://digitalheroesco.com)
+ 
